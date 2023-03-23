@@ -1,5 +1,6 @@
 
-<img align="right" width="33%" src="https://vivifyassets.s3.ap-south-1.amazonaws.com/lifeeazy-logo1.png"><h1 align=center fontsize=34>Opencv and Tesseract</h1>
+<img align="right" width="28%" src="https://vivifyassets.s3.ap-south-1.amazonaws.com/lifeeazy-logo1.png">
+<h1 align=center fontsize=34>Opencv and Tesseract</h1>
 Here, we are came with a small idea of the combination of Opencv and Tesseract OCR
 
 
@@ -62,7 +63,7 @@ Note : That path must contain bin,tessdata folders
 ## How it works
 
 - First we are opening an Image, which we have to convert 
-- Then, finding boxes using opencv and draw the box with green indication around box, then we capture the bounding values and save them into the variables.
-- Now, cropping the image with bounding values.
+- Then, finding boxes using opencv and draw the box with green indication around box, then we capture the bounding values x,y,height and width and save them into the variables.
+- Now, cropping the image with bounding values. X,Y values for start point and height, width values  for draw the box.
 - send to pyTesseract, That's it and the output value or recognized text are stored at <b>text</b> variable
 
