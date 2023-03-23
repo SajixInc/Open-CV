@@ -18,8 +18,12 @@ Tesseract is an optical character recognition engine for various operating syste
 
 
 ## Opencv ## 
+<img align='right' width="30%" src="https://vivifyassets.s3.ap-south-1.amazonaws.com/95103cv.png">
+
+<div text-align="left" width="50%"><br>
 Opencv <b>Open Source Computer Vision Library</b> is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. Being an Apache 2 licensed product, OpenCV makes it easy for businesses to utilize and modify the code.for more details
 <a href='https://docs.opencv.org/4.x/'>opencv</a>.
+</div>
 
 
 ## Installation 
