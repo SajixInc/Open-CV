@@ -8,13 +8,13 @@ Here, we are came with a small idea of the combination of Opencv and Tesseract O
 <div text-align="left">OCR stands for <b>Optical Character Recognition.</b> It is a technology that recognizes text within a digital image. It is commonly used to recognize text in scanned documents and images. OCR software can be used to convert a physical paper document, or an image into an accessible electronic version with text.</div>
 
 ## Tesseract ##
-<img align="right" 
+<img align="left" 
 width="30%" src="https://vivifyassets.s3.ap-south-1.amazonaws.com/tesseract-ocr.jpg">
 
 
-<div text-align= "left">
-Tesseract is an optical character recognition engine for various operating systems. It is free software, released under the Apache License. Originally developed by Hewlett-Packard as proprietary software in the 1980s, it was released as open source in 2005 and development has been sponsored by Google. for more details <a href='https://github.com/tesseract-ocr/tesseract'>Tesseract</a>.</div>
-
+<div text-align= "right">
+Tesseract is an optical character recognition engine for various operating systems. It is free software, released under the Apache License. Originally developed by Hewlett-Packard as proprietary software in the 1980s, it was released as open source in 2005 and development has been sponsored by Google. for more details <a href='https://github.com/tesseract-ocr/tesseract'>Tesseract</a>.</div><br>
+<br>
 
 
 ## Opencv ## 
