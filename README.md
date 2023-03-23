@@ -18,7 +18,7 @@ Tesseract is an optical character recognition engine for various operating syste
 <br>
 
 
-## Opencv ## 
+<div align="right">## Opencv ## </div>
 <img align='right' width="30%" src="https://vivifyassets.s3.ap-south-1.amazonaws.com/95103cv.png">
 
 <div text-align="left" width="50%"><br>
