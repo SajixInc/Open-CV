@@ -1,11 +1,11 @@
 
+<img align="left" width="20%" src="https://vivifyassets.s3.ap-south-1.amazonaws.com/ocr-55-e1661521818617-1024x569.png">
 <img align="right" width="28%" src="https://vivifyassets.s3.ap-south-1.amazonaws.com/lifeeazy-logo1.png">
 <h1 align=center fontsize=34>Opencv and Tesseract</h1>
-Here, we are came with a small idea of the combination of Opencv and Tesseract OCR
+
 
 
 ## Optical character recognition ##
-<img align="right" width="30%" src="https://vivifyassets.s3.ap-south-1.amazonaws.com/ocr-55-e1661521818617-1024x569.png">
 <div text-align="left">OCR stands for <b>Optical Character Recognition.</b> It is a technology that recognizes text within a digital image. It is commonly used to recognize text in scanned documents and images. OCR software can be used to convert a physical paper document, or an image into an accessible electronic version with text.</div>
 
 ## Tesseract ##
@@ -70,3 +70,11 @@ Note : That path must contain bin,tessdata folders
 <p align="center">
 <img src="https://vivifyassets.s3.ap-south-1.amazonaws.com/cropped-vivify_login.png" margin_left="100"/>
  </p>
+ 
+ 
+ 
+ **Join Vivify Healthcare's Community**
+
+Tech-Stack provides a space for discussions on a variety of topics including product reviews, software development, and emerging technologies. Join our community, simply click on the invitation link below and follow the prompts to create your account. We look forward to welcoming you to our community!
+
+<img align='left' width="5%" src="https://vivifyassets.s3.ap-south-1.amazonaws.com/Discord.png">  Invitation link: [https://lnkd.in/gmkMQnZD](https://lnkd.in/gmkMQnZD)
