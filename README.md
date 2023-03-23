@@ -67,3 +67,6 @@ Note : That path must contain bin,tessdata folders
 - Now, cropping the image with bounding values. X,Y values for start point and height, width values  for draw the box.
 - send to pyTesseract, That's it and the output value or recognized text are stored at <b>text</b> variable
 
+<p align="center">
+<img src="https://vivifyassets.s3.ap-south-1.amazonaws.com/cropped-vivify_login.png" margin_left="100"/>
+ </p>
