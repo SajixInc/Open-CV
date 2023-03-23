@@ -4,8 +4,8 @@ Here, we are came with a small idea of the combination of Opencv and Tesseract O
 
 
 ## Optical character recognition ##
-
-OCR stands for <b>Optical Character Recognition.</b> It is a technology that recognizes text within a digital image. It is commonly used to recognize text in scanned documents and images. OCR software can be used to convert a physical paper document, or an image into an accessible electronic version with text.
+<img align="right" width="50%" src="https://vivifyassets.s3.ap-south-1.amazonaws.com/ocr-55-e1661521818617-1024x569.png">
+<div text-align="left">OCR stands for <b>Optical Character Recognition.</b> It is a technology that recognizes text within a digital image. It is commonly used to recognize text in scanned documents and images. OCR software can be used to convert a physical paper document, or an image into an accessible electronic version with text.</div>
 
 ## Tesseract ##
 <img align="right" 
