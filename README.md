@@ -1,4 +1,5 @@
-<h1 align=center fontsize=34>Opencv and Tesseract</h1>
+
+<img align="right" width="33%" src="https://vivifyassets.s3.ap-south-1.amazonaws.com/lifeeazy-logo1.png"><h1 align=center fontsize=34>Opencv and Tesseract</h1>
 Here, we are came with a small idea of the combination of Opencv and Tesseract OCR
 
 
@@ -7,9 +8,14 @@ Here, we are came with a small idea of the combination of Opencv and Tesseract O
 OCR stands for <b>Optical Character Recognition.</b> It is a technology that recognizes text within a digital image. It is commonly used to recognize text in scanned documents and images. OCR software can be used to convert a physical paper document, or an image into an accessible electronic version with text.
 
 ## Tesseract ##
+<img align="right" 
+width="30%" src="https://vivifyassets.s3.ap-south-1.amazonaws.com/tesseract-ocr.jpg">
 
 
-Tesseract is an optical character recognition engine for various operating systems. It is free software, released under the Apache License. Originally developed by Hewlett-Packard as proprietary software in the 1980s, it was released as open source in 2005 and development has been sponsored by Google. for more details <a href='https://github.com/tesseract-ocr/tesseract'>Tesseract</a>.
+<div text-align= "left">
+Tesseract is an optical character recognition engine for various operating systems. It is free software, released under the Apache License. Originally developed by Hewlett-Packard as proprietary software in the 1980s, it was released as open source in 2005 and development has been sponsored by Google. for more details <a href='https://github.com/tesseract-ocr/tesseract'>Tesseract</a>.</div>
+
+
 
 ## Opencv ## 
 Opencv <b>Open Source Computer Vision Library</b> is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. Being an Apache 2 licensed product, OpenCV makes it easy for businesses to utilize and modify the code.for more details
