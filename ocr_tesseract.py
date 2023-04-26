@@ -25,7 +25,7 @@ def covert(x, y, w, h, im2):
         # print(w,'----------')
         img = cv2.resize(rect, (1020, 750))
         cv2.imshow('d', img)
-        cv2.waitKey(3)
+        cv2.waitKey(0)
         text = pytesseract.image_to_string(cropped)
         print(text)
         f = open('text.txt', 'a')
@@ -89,4 +89,8 @@ def image_upload(image_file):
         # print(k, 'done')
 
 # image_upload(r"D:\projects\conversion\cinverstion1\google\pytesseract\pytessract\pdf to image\images")
-image_upload(r"D:\projects\pro_liar_repo\ocr_tesseract\OCR_tesseract\images")
+image_upload(r"D:\projects\pro_liar_repo\ocr_tesseract\OCR_tesseract\Open-CV\images")
+
+
+
+
